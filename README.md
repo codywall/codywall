@@ -9,4 +9,6 @@
 
 ![Cody's github stats](https://github-readme-stats.vercel.app/api?username=codywall&include_all_commits=true&show_icons=true&count_private=true&hide=stars&theme=graywhite)
 
+[Portfolio](https://codywall.com){: .btn .btn-purple } [LinkedIn](https://www.linkedin.com/in/codycwall){: .btn .btn-blue }
+
 ![](https://komarev.com/ghpvc/?username=codywall)

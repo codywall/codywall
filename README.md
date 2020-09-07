@@ -9,5 +9,9 @@
 
 ![Cody's github stats](https://github-readme-stats.vercel.app/api?username=codywall&include_all_commits=true&show_icons=true&count_private=true&hide=stars&theme=graywhite)
 
-<button onclick="https://codywall.com" class="btn .btn-purple">Portfolio</button><button onclick="https://www.linkedin.com/in/codycwall" class=".btn .btn-blue">LinkedIn</button>
+## More about me
+- [Portfolio](https://codywall.com)
+
+- [LinkedIn](https://www.linkedin.com/in/codycwall)
+
 ![](https://komarev.com/ghpvc/?username=codywall)

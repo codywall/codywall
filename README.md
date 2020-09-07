@@ -6,12 +6,9 @@
 
 - 💡 I'm currently learning more about serverless technologies.
 
+- 🤝 View my [portfolio](https://codywall.com) and add me on [LinkedIn](https://www.linkedin.com/in/codycwall)
+
 
 ![Cody's github stats](https://github-readme-stats.vercel.app/api?username=codywall&include_all_commits=true&show_icons=true&count_private=true&hide=stars&theme=graywhite)
-
-## More about me
-- [Portfolio](https://codywall.com)
-
-- [LinkedIn](https://www.linkedin.com/in/codycwall)
 
 ![](https://komarev.com/ghpvc/?username=codywall)

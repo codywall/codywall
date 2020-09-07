@@ -4,3 +4,4 @@ I am a Javascript Developer focused on front end frameworks such as React and JA
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codywall&show_icons=true&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=your-github-username)

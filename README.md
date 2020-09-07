@@ -4,6 +4,6 @@ I am a Javascript Developer focused on front end frameworks such as React and JA
 
 ![Cody's github stats](https://github-readme-stats.vercel.app/api?username=codywall&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codywall)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)

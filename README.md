@@ -1,4 +1,4 @@
-## Hi 👋 I'm Cody
+### Hi 👋 I'm Cody
 
 - 🦦 I'm currently maintaining and developing new features for CSU Monterey Bay's [campus website](https://github.com/csumb/csumb-gatsby).
 

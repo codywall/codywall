@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Cody
 
-- 🦦 I'm currently maintaining and developing new features for CSU Monterey Bay's [campus website](https://github.com/csumb/csumb-gatsby).
+- 🦦 I'm currently developing new features for and maintaining CSU Monterey Bay's [campus website](https://github.com/csumb/csumb-gatsby).
 
 - 🔥 I enjoy working with React and static site generators like [GatsbyJS](https://www.gatsbyjs.com).
 

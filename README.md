@@ -4,7 +4,7 @@
 
 - 🔥 I enjoy working with React and static site generators like [GatsbyJS](https://www.gatsbyjs.com).
 
-- 💡 I'm currently learning animation with ThreeJS.
+- 💡 I'm currently brushing up on my design skills.
 
 - 🤝 View my [portfolio](https://codywall.com) and connect with me on [LinkedIn](https://www.linkedin.com/in/codycwall)!
 

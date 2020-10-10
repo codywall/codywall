@@ -9,6 +9,6 @@
 - 🤝 View my [portfolio](https://codywall.com) and connect with me on [LinkedIn](https://www.linkedin.com/in/codycwall)!
 
 
-![Cody's github stats](https://github-readme-stats.vercel.app/api?username=codywall&include_all_commits=false&show_icons=true&count_private=true&hide=stars&theme=graywhite)
+![Cody's github stats](https://github-readme-stats.vercel.app/api?username=codywall&include_all_commits=true&show_icons=true&count_private=true&hide=stars&theme=graywhite)
 
 ![](https://komarev.com/ghpvc/?username=codywall)

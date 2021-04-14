@@ -4,7 +4,7 @@
 
 - 🔥 I enjoy working with React and static site generators like [GatsbyJS](https://www.gatsbyjs.com).
 
-- 💡 I'm currently working more with Node, and learning Salesforce development.
+- 👶 I'm currently getting back in the swing of things after paternity leave and working more with Node, and learning Salesforce development.
 
 - 🤝 View my [portfolio](https://codywall.com) and connect with me on [LinkedIn](https://www.linkedin.com/in/codycwall)!
 

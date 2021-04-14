@@ -7,8 +7,3 @@
 - 👶 I'm currently getting back in the swing of things after paternity leave and working more with Node and Salesforce.
 
 - 🤝 View my [portfolio](https://codywall.com) and connect with me on [LinkedIn](https://www.linkedin.com/in/codycwall)!
-
-
-![Cody's github stats](https://github-readme-stats.vercel.app/api?username=codywall&include_all_commits=true&show_icons=true&count_private=true&hide=stars&theme=graywhite)
-
-![](https://komarev.com/ghpvc/?username=codywall)
